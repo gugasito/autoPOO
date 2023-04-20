@@ -1,1 +1,3 @@
-# autoPOO
+# Piano POO
+
+![](Piano.png)
